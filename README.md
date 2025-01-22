@@ -1,1 +1,1 @@
-# Tableau-Project
+This project aims to analyze financial performance across various countries, products, and time periods using Tableau. Key metrics such as sales, profit, cost of goods sold (COGS), and discounts were evaluated to gain insights into overall financial trends. The analysis identified high and low-performing countries and products, examined temporal sales patterns, explored the relationship between discounts and sales, and provided strategic recommendations to enhance revenue and profitability.
